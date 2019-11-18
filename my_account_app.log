@@ -1,0 +1,49 @@
+2018-07-19 10:43:11,681:INFO:Login Successful
+2018-07-19 10:47:12,202:INFO:Login Successful UserName: bajisyed
+2018-07-19 10:54:21,246:INFO:Login Failed.Invalid UserName! UserName: bajisyed1
+2018-07-19 10:54:41,553:INFO:Login Failed.Invalid Password! UserName: bajisyed
+2018-07-19 10:56:46,501:INFO:login.py:Login Successful UserName: bajisyed
+2018-07-19 11:18:55,741:INFO:forgot_password_initial.py:Forgot Password Initiated !
+2018-07-19 11:52:08,307:INFO:login.py:Login Successful UserName: None
+2018-07-19 11:52:16,255:INFO:forgot_password_initial.py:Forgot Password Initiated !
+2018-07-19 11:52:48,475:INFO:forgot_password_final.py:Password has been updated successfully! UserName: bajisyed
+2018-07-19 11:53:11,452:INFO:forgot_password_initial.py:Forgot Password Initiated !
+2018-07-19 11:53:21,942:INFO:forgot_password_final.py:Passwords did not match! UserName: bajisyed
+2018-07-19 11:54:09,927:INFO:forgot_password_final.py:Passwords did not match! UserName: bajisyed
+2018-07-19 11:54:30,977:INFO:forgot_password_initial.py:Forgot Password Initiated !
+2018-07-19 11:55:15,991:INFO:forgot_password_initial.py:Forgot Password Initiated !
+2018-07-19 11:55:27,208:ERROR:forgot_password_final.py:Passwords did not match! UserName: bajisyed
+2018-07-19 11:56:08,701:INFO:forgot_password_initial.py:Forgot Password Initiated !
+2018-07-19 11:56:23,116:INFO:forgot_password_initial.py:Forgot Password Initiated !
+2018-07-19 11:56:25,802:INFO:forgot_password_initial.py:Forgot Password Initiated !
+2018-07-19 11:56:53,815:INFO:forgot_password_initial.py:Forgot Password Initiated !
+2018-07-19 11:57:14,012:ERROR:forgot_password_final.py:Invalid UserName! UserName: bajisyedq
+2018-07-19 11:57:17,577:INFO:forgot_password_initial.py:Forgot Password Initiated !
+2018-07-19 11:57:44,720:ERROR:forgot_password_final.py:Passwords did not match! UserName: bajisyed
+2018-07-19 11:57:46,661:INFO:forgot_password_initial.py:Forgot Password Initiated !
+2018-07-19 11:58:05,758:INFO:forgot_password_final.py:Password has been updated successfully! UserName: bajisyed
+2018-07-19 11:59:00,193:INFO:login.py:Login Successful UserName: bajisyed
+2018-07-19 11:59:22,892:ERROR:login.py:Login Failed.Invalid Password! UserName: bajisyed
+2018-07-19 11:59:37,698:ERROR:login.py:Login Failed.Invalid UserName! UserName: bajisue
+2018-07-19 12:57:13,175:INFO:create_account_initial.py:Account Creation is initiated !
+2018-07-19 13:02:08,370:INFO:create_account_initial.py:Account Creation is initiated !
+2018-07-19 13:02:16,350:INFO:create_account_initial.py:Account Creation is initiated !
+2018-07-19 13:02:52,446:INFO:create_account_final.py:Account Creation is Successful ! UserName: mtree
+2018-07-19 13:03:27,947:INFO:login.py:Login Successful UserName: bajisyed
+2018-07-19 13:07:15,042:INFO:add_payee_initial.py:Add Payee initiated ! Account Number: 100
+2018-07-19 13:10:27,745:INFO:add_payee_final.py:Payee Added! Payer Acc No: 100 Payee Acc No: 111
+2018-07-19 13:13:20,922:INFO:login.py:Login Successful UserName: bajisyed
+2018-07-19 13:13:34,248:INFO:remove_payee_initial.py:Remove Payee initiated ! Payer Acc_No: 100
+2018-07-19 13:17:00,599:INFO:remove_payee_final.py:Payee Removal Successful! Payer Acc No: 100 and Payee Acc No: 111
+2018-07-19 13:19:59,414:INFO:login.py:Login Successful UserName: bajisyed
+2018-07-19 13:20:01,329:INFO:deposit_money_initial.py:Money Deposit initiated! Account Number: bajisyed
+2018-07-19 13:21:44,870:INFO:deposit_money_initial.py:Money Deposit initiated!  UserName: bajisyed
+2018-07-19 13:24:49,055:INFO:deposit_money_initial.py:Money Deposit initiated!  UserName: bajisyed
+2018-07-19 13:25:01,154:INFO:deposit_money_final.py:Money Deposit Successful! UserName: bajisyed Deposit Amount: 99999
+2018-07-19 13:28:15,837:INFO:login.py:Login Successful UserName: bajisyed
+2018-07-19 13:28:51,916:INFO:transfer_money_initial.py:Transfer Money initiated! UserName: bajisyed
+2018-07-19 13:30:07,787:INFO:transfer_money_initial.py:Transfer Money initiated! UserName: None
+2018-07-19 13:30:35,033:INFO:login.py:Login Successful UserName: bajisyed
+2018-07-19 13:30:37,180:INFO:transfer_money_initial.py:Transfer Money initiated! UserName: bajisyed
+2018-07-19 13:33:54,575:INFO:transfer_money_initial.py:Transfer Money initiated! UserName: bajisyed
+2018-07-19 13:34:07,831:INFO:transfer_money_final.py:Money Transfer Successful ! Payer Acc No: 100  Payee Acc No: 102

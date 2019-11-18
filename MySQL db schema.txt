@@ -1,0 +1,13 @@
+1)CREATE DATABASE testdb;
+2)USE testdb
+
+Main DB:
+3)CREATE TABLE bank_details (Acc_No int AUTO_INCREMENT PRIMARY KEY, Fname varchar(100), Lname varchar(100), DOB varchar (20), UserName varchar(100) NOT NULL UNIQUE, Password varchar(100)NOT NULL, Balance varchar(20));
+
+To Make Account Numbers Starts from 100:
+4)ALTER TABLE bank_details AUTO_INCREMENT=100;
+
+Payee Details DB:
+5)CREATE TABLE payee_details (id int NOT NULL PRIMARY KEY AUTO_INCREMENT, Acc_No int NOT NULL, Payee_Acc_No int NOT NULL, Payee_Name varchar(100), Payee_Bank_Name varchar(100), Date date NOT NULL, FOREIGN KEY(Acc_No) REFERENCES bank_details(Acc_No));
+
+
