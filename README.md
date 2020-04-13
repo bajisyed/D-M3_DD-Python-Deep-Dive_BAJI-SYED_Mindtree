@@ -1,4 +1,4 @@
-# D-M3_DD-Python-Deep-Dive_BAJI-SYED_Mindtree
+# D-M3_DD-Python-Deep-Dive_BAJI-SYED
 This is a Banking Web Application (Developed using Python)
 
 This app supports all basic functionalities of a Banking App
